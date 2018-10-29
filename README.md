@@ -1,2 +1,4 @@
 # WT-labs
-just another repository
+GROUP MEMBERS:
+16SW04
+16SW22
