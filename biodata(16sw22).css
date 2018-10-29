@@ -1,0 +1,50 @@
+.fieldset {
+    text-align: center;
+    color: white;
+    height:700px;
+    width: 800px;
+    border: 6px solid #6be5ea;  
+    margin:auto;
+    background-color: #fdf9ea;
+}
+
+.legend{
+    text-align: center;
+    color: #6be5ea;
+    font-family:fantasy;
+    font-size:30;
+    
+}
+#image{
+    float: right;
+    border-bottom-left-radius: 50% ;
+    border-top-right-radius: 50% ;
+    border-color: #1414f5;
+}
+.div{
+	text-align: center;
+
+}
+.div1{
+    
+	position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+
+}
+.allignment{
+	text-align: justify;
+
+}
+.data {
+    
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1 {
+    text-shadow: 2px 2px rgb(83, 149, 255);
+}
